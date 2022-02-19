@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "49290517810",
+    "project_id": "mytix-48b73",
+    "storage_bucket": "mytix-48b73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49290517810:android:229235275548587f228b2b",
+        "android_client_info": {
+          "package_name": "com.nurpita.mytix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49290517810-h769ib1vtsjab4fa0101klsjk5m8qfej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdeGlPLsvBKqncrNojaFaUHCsJ1hyJsnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49290517810-h769ib1vtsjab4fa0101klsjk5m8qfej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
